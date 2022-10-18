@@ -1,8 +1,8 @@
 ---
-name: 2022 BUIDL Accelerator Grant Proposal
-about: Grant proposal for '22 BUIDL Accelerator
+name: BUIDL 22 Grant Proposal
+about: Grant proposal for 2022 BUIDL Accelerator w/ WBW3 & Encode
 title: "[BUIDL '22] <Name of project>"
-labels: ''
+labels: 'buidl-22'
 assignees: ''
 
 ---
@@ -13,9 +13,9 @@ assignees: ''
 
 **Proposer:** `replace with your GitHub username`
 
-**Do you agree to [Encode Club's Terms and Conditions](https://www.encode.club/terms-of-particpation)?:** Please respond with either "Yes" or "No"
+**Do you agree to [Encode Club's Terms and Conditions](https://www.encode.club/terms-of-particpation)?:** <!-- Please respond with either "Yes" or "No" -->
 
-**Do you agree to [the grant process outlined by WBW3](https://docs.google.com/document/d/1RhLYna5kBBhbkPEKq7xGg655RJIO5ZKOLvh2cHFfekM/edit?usp=sharing)?:** Please respond with either "Yes" or "No"
+**Do you agree to [the grant process outlined by WBW3](https://github.com/womenbuildweb3/grants/blob/main/buidl-22/process.md)?:** <!-- Please respond with either "Yes" or "No" -->
 
 ## Project Description
 
@@ -29,7 +29,7 @@ assignees: ''
 
 ## 3-Month Development Roadmap
 
-<!-- Please break up your development work for the next 3 months into a clear set of meaningful milestones. -->
+<!-- Please break up your development work for the next 3 months into a clear set of meaningful monthly milestones. -->
 
 <!-- For each milestone, please note: -->
 <!-- - The software functionality that we can expect after the completion of this milestone -->
@@ -37,12 +37,20 @@ assignees: ''
 <!-- - The amount of funding required for this milestone -->
 <!-- - How much time this milestone will take to achieve -->
 
+<!-- You may use the following table to help structure each milestone -->
+
 Milestone 1
+- Summary: <!-- Brief description of this milestone -->
+- Team: <!-- Team member(s) and role(s) -->
+- Budget: <!-- Estimated cost in USD  -->
+- Duration: 1 month
+
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
 | 1.     | Title of the deliverable | Please describe the deliverable here as detailed as possible |
 | 2.     | ...                      | ...                                                          |
 
+  
 ## Total Budget Requested
 
 <!--Sum up the total requested budget across all milestones, and include that figure here. -->
