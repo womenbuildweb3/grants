@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: '22 BUIDL Accelerator Grant Proposal
 about: Grant proposal for '22 BUIDL Accelerator
 title: "[BUIDL '22] <Name of project>"
 labels: ''
