@@ -27,7 +27,7 @@ assignees: ''
 
 <!-- Please describe what technologies will be used in this project and how you intend to implement them. -->
 
-## 3-Month Development Roadmap
+## Development Roadmap
 
 <!-- Please break up your development work for the duration of the accelerator (11 weeks) into a clear set of meaningful milestones. -->
 
