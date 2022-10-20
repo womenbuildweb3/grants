@@ -2,7 +2,7 @@
 name: BUIDL 22 Grant Proposal
 about: Grant proposal for 2022 BUIDL Accelerator w/ WBW3 & Encode
 title: "[BUIDL '22] <Name of project>"
-labels: 'buidl-22'
+labels: ''
 assignees: ''
 
 ---
@@ -29,7 +29,7 @@ assignees: ''
 
 ## 3-Month Development Roadmap
 
-<!-- Please break up your development work for the next 3 months into a clear set of meaningful monthly milestones. -->
+<!-- Please break up your development work for the duration of the accelerator (11 weeks) into a clear set of meaningful milestones. -->
 
 <!-- For each milestone, please note: -->
 <!-- - The software functionality that we can expect after the completion of this milestone -->
@@ -43,7 +43,7 @@ Milestone 1
 - Summary: <!-- Brief description of this milestone -->
 - Team: <!-- Team member(s) and role(s) -->
 - Budget: <!-- Estimated cost in USD  -->
-- Duration: 1 month
+- Duration: 4 weeks
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
