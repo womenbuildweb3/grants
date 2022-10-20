@@ -6,7 +6,7 @@ By now, you should have received an email to fill out the [grant overview form](
 The following guide goes over our grant process. Kindly read through the doc and follow up with any comments or questions in the [Encode Club Discord server](https://discord.com/channels/705799923014041651/1027167831760052254). 
 
 ## Grant Proposal
-The accelerator aims to provide no-strings-attached grants ranging from $5k to $30k that will be distributed to teams on the condition that they meet their self-defined milestones. To finalize your team’s grant amount, your team must submit a grant proposal that describes the team’s monthly technical milestones and budget needs for the duration of the accelerator (~11 weeks) in detail.
+The accelerator aims to provide no-strings-attached grants ranging from $5k to $30k that will be distributed to teams on the condition that they meet their self-defined milestones. To finalize your team’s grant amount, your team must submit a grant proposal that describes the team’s monthly technical milestones and budget needs for the duration of the accelerator (11 weeks) in detail.
 
 Milestones are used to define a significant point that measures a project’s progress towards its ultimate goal and highlights successful completion of events and tasks so far. Your milestones must be technical and include time estimates and measurable results. Your proposal will be judged on impact and feasibility. Here is a good example -
 
@@ -18,7 +18,7 @@ WBW3 has provided a proposal template [here](https://github.com/womenbuildweb3/g
 ## Grant Distribution
 Once your team’s grant proposal is approved, WBW3 will follow up with your team to get your team's ETH address that will be used to distribute funds on a per month basis. We recommend teams to create and use multisig wallets on the Ethereum network using [Gnosis Safes](https://gnosis-safe.io/), but this decision is entirely up to your team. Once WBW3 sends funds to your team’s designated ETH address, your team is fully responsible for dividing the funds among team members.
 
-Grants will be distributed upon completion of work at the end of every month. WBW3 will reach out to teams to schedule a 1:1 towards the end of the month to briefly present their progress, raise any blockers, and confirm the payout details. While it is highly encouraged to attend workshops and mingle with teams, the only required sessions to receive funding are these monthly 1:1s with WBW3 and two events–VC Panel and Pitch Day.
+Grants will be distributed upon completion of work at the end of every month. WBW3 will reach out to teams to schedule a 1:1 to briefly present their progress, raise any blockers, and confirm the payout details. While it is highly encouraged to attend workshops and mingle with teams, the only required sessions to receive funding are these monthly 1:1s with WBW3 and two events–VC Panel and Pitch Day.
 
 Note that the funds will be distributed from WBW3 treasury, which is mostly comprised of stablecoins (USDC, DAI). In the case that a payment may include other tokens (e.g., ETH), we'll notify the team ahead of time.
 
