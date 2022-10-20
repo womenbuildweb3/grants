@@ -10,12 +10,17 @@ The accelerator aims to provide no-strings-attached grants ranging from $5k to $
 
 Milestones are used to define a significant point that measures a project’s progress towards its ultimate goal and highlights successful completion of events and tasks so far. Your milestones must be technical and include time estimates and measurable results. Your proposal will be judged on impact and feasibility. Here is a good example -
 
+![image](https://user-images.githubusercontent.com/15064710/196845700-5f0fcb25-5570-42a7-85f1-2da48c5aa1b5.png)
+
+
 WBW3 has provided a proposal template [here](https://github.com/womenbuildweb3/grants/issues/new/choose) which your team can use to submit a proposal through GitHub. Once your team submits a grant proposal to that [repo](https://github.com/womenbuildweb3/grants/issues/new/choose), WBW3 will review it and either approve or request changes within **1-2 days**.
 
 ## Grant Distribution
 Once your team’s grant proposal is approved by WBW3, your team must update WBW3 with an ETH address that will be used to distribute funds on a per month basis. We recommend teams to create and use multisig wallets on the Ethereum network using [Gnosis Safes](https://gnosis-safe.io/), but this decision is entirely up to your team. Once WBW3 sends funds to your team’s designated ETH address, your team is fully responsible for dividing the funds among team members.
 
-Grants will be distributed upon completion of work at the end of every month. Teams must schedule a 1:1 with WBW3 towards the end of the month to briefly present their progress, revisit their development roadmap, raise any blockers, etc. While it is highly encouraged to attend workshops and mingle with teams, the only required sessions to receive funding are these monthly 1:1s with WBW3 and two events–VC Panel and Pitch Day.
+Grants will be distributed upon completion of work at the end of every month. Teams must schedule a 1:1 with WBW3 towards the end of the month to briefly present their progress, raise any blockers, and confirm the payout details. While it is highly encouraged to attend workshops and mingle with teams, the only required sessions to receive funding are these monthly 1:1s with WBW3 and two events–VC Panel and Pitch Day.
+
+Note that the funds will be distributed from WBW3 treasury, which is mostly comprised of stablecoins (USDC, DAI). In the case that a payment may include other tokens (e.g., ETH), we'll notify the team ahead of time.
 
 ## Rules of Conduct
 To cultivate an inclusive and productive culture of learning, growth, and collaboration, please abide by the following rules.
